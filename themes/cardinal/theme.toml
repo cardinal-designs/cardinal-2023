@@ -1,0 +1,11 @@
+name = "Cardinal & Co."
+license = "MIT"
+description = "Cardinal & Co. template"
+homepage = "https://cardinalco.agency/"
+tags = []
+features = []
+min_version = "1.0.0"
+
+[author]
+  name = "Cardinal & Co."
+  homepage = "https://cardinalco.agency/"
